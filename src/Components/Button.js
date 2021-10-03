@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-//import Algorithims from './Algorithims';
+
 
 const Button = ({onClick, text, color}) => {
     return (

@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Ryan",
+      "lastName": "Mosser",
+      "age": 28,
+      "godmode": false
+    },
+    {
+      "id": 2,
+      "username": "Alie",
+      "lastName": "Mosser",
+      "age": 29,
+      "godmode": false
+    },
+    {
+      "id": 3,
+      "username": "Lincoln",
+      "lastName": "Mosser",
+      "age": 6,
+      "godmode": false
+    },
+    {
+      "username": "Luke",
+      "lastName": "Mosser",
+      "age": "3",
+      "godmode": false,
+      "id": 6
+    },
+    {
+      "username": "PJay",
+      "lastName": "Mosser",
+      "age": "2",
+      "godmode": false,
+      "id": 7
+    }
+  ]
+}
